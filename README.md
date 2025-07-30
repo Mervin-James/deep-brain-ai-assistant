@@ -4,6 +4,8 @@
 
 ### About This Enhanced Implementation
 
+![alt text](image.png)
+
 This project builds upon Decoding ML's open-source Second Brain AI Assistant course, adding **dynamic reasoning capabilities** that adapt processing complexity based on input characteristics. The system automatically scales from simple retrieval for straightforward queries to multi-step reasoning for complex analytical tasks.
 
 ### Skills Mastered

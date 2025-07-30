@@ -1,30 +1,6 @@
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="20%" style="border: none;">
-      <a href="https://decodingml.substack.com/" aria-label="Decoding ML">
-        <img src="https://github.com/user-attachments/assets/f2f2f9c0-54b7-4ae3-bf8d-23a359c86982" alt="Decoding ML Logo" width="150"/>
-      </a>
-    </td>
-    <td width="80%" style="border: none;">
-      <div>
-        <h2>📬 Stay Updated</h2>
-        <p><b><a href="https://decodingml.substack.com/">Join Decoding ML</a></b> for proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications. Every week, straight to your inbox.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+# 🚀 Installation and Usage Guide for the DeepBrain Offline Module
 
-<p align="center">
-  <a href="https://decodingml.substack.com/">
-    <img src="https://img.shields.io/static/v1?label&logo=substack&message=Subscribe%20Now&style=for-the-badge&color=black&scale=2" alt="Subscribe Now" height="40">
-  </a>
-</p>
-
-------
-
-# 🚀 Installation and Usage Guide for the Second Brain Offline Module
-
-This guide will help you set up and run the Second Brain Offline Module which contains the code for **Modules 1-5**.
+This guide will help you set up and run the DeepBrain Offline Module which contains the code for **Modules 1-5**.
 
 # 📑 Table of Contents
 
@@ -187,11 +163,11 @@ make local-infrastructure-down
 
 To simulate the course modules, we split the CLI commands and offline ML pipelines you must run per module so you know exactly where you are in the course.
 
-## Module 1: Build your Second Brain AI assistant
+## Module 1: Build your DeepBrain AI assistant
 
-No code to run for this module, as it lays down the overall architecture of the Second Brain AI assistant. 
+No code to run for this module, as it lays down the overall architecture of the DeepBrain AI assistant. 
 
-We recommend to read the [first lesson](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant) to better understand the AI system architecture of the Second Brain AI assistant, where we teach best practices for building production ML systems using MLOps best practices.
+We recommend to read the [first lesson](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant) to better understand the AI system architecture of the DeepBrain AI assistant, where we teach best practices for building production ML systems using MLOps best practices.
 
 ## Module 2: ETL pipeline
 
